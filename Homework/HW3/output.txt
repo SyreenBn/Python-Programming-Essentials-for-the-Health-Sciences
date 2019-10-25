@@ -1,0 +1,25 @@
+A weight of 65.7 kg and a height of 1.67cm represent a BMI of 23.6, which is classified as Healthy weight.
+A weight of 83.6 kg and a height of 1.76cm represent a BMI of 27.0, which is classified as Overweight.
+A weight of 44.5 kg and a height of 1.52cm represent a BMI of 19.3, which is classified as Healthy weight.
+A weight of 102.4 kg and a height of 1.63cm represent a BMI of 38.5, which is classified as Obese.
+A weight of 57.8 kg and a height of 1.65cm represent a BMI of 21.2, which is classified as Healthy weight.
+A weight of 81.6 kg and a height of 1.63cm represent a BMI of 30.7, which is classified as Obese.
+A weight of 137.6 kg and a height of 1.68cm represent a BMI of 48.8, which is classified as Obese.
+A weight of 54.6 kg and a height of 1.49cm represent a BMI of 24.6, which is classified as Healthy weight.
+A weight of 45.1 kg and a height of 1.64cm represent a BMI of 16.8, which is classified as Underweight.
+A weight of 61.3 kg and a height of 1.71cm represent a BMI of 21.0, which is classified as Healthy weight.
+A weight of 80.2 kg and a height of 1.57cm represent a BMI of 32.5, which is classified as Obese.
+A weight of 69.5 kg and a height of 1.61cm represent a BMI of 26.8, which is classified as Overweight.
+A weight of 54.3 kg and a height of 1.61cm represent a BMI of 20.9, which is classified as Healthy weight.
+A weight of 87.7 kg and a height of 1.78cm represent a BMI of 27.7, which is classified as Overweight.
+A weight of 66.0 kg and a height of 1.67cm represent a BMI of 23.7, which is classified as Healthy weight.
+A weight of 70.6 kg and a height of 1.74cm represent a BMI of 23.3, which is classified as Healthy weight.
+A weight of 100.0 kg and a height of 1.86cm represent a BMI of 28.9, which is classified as Overweight.
+A weight of 54.3 kg and a height of 1.55cm represent a BMI of 22.6, which is classified as Healthy weight.
+A weight of 72.5 kg and a height of 1.68cm represent a BMI of 25.7, which is classified as Overweight.
+A weight of 80.9 kg and a height of 1.73cm represent a BMI of 27.0, which is classified as Overweight.
+A weight of 44.0 kg and a height of 1.57cm represent a BMI of 17.9, which is classified as Underweight.
+A weight of 106.7 kg and a height of 1.73cm represent a BMI of 35.7, which is classified as Obese.
+A weight of 108.8 kg and a height of 1.61cm represent a BMI of 42.0, which is classified as Obese.
+A weight of 85.9 kg and a height of 1.6cm represent a BMI of 33.6, which is classified as Obese.
+A weight of 53.0 kg and a height of 1.66cm represent a BMI of 19.2, which is classified as Healthy weight.
